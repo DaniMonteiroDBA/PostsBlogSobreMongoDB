@@ -30,9 +30,9 @@ change_stream = client.watch()
 #change_stream = client.watch()
 #*******************************************
 
-#O change é um objeto do tipo dicionário, que contém informações sobre a atualização que foi feita
-for change in change_stream:
+#O cs é um objeto do tipo dicionário, que contém informações sobre a atualização que foi feita
+for cs in change_stream:
     #Imprimir na tela as alterações realizadas, e documentadas no objeto change
-    print(change)
+    print(cs)
     
 
