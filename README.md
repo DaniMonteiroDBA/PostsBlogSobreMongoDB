@@ -1,4 +1,4 @@
-# PostsBlogSobreMongoDB
-Scripts usados no meu blog, para exemplificar o uso do MongoDB
+# Aqui você encontrará os scripts usados no blog DB4Beginners para exemplificar conceitos do MongoDB
 
-Saiba mais em www.DB4Beginners.com
+Se você não conhece o blog, está convidado para acessar www.DB4Beginners.com
+
